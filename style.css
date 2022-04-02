@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+    background-color: rgba(0, 149, 235, 0.924);
+}
+p {
+    color: blue;
+}
+header {
+    color: rgb(30, 8, 156);
+}
+h1 {
+    color: rgb(30, 8, 156);
+}
+img {
+    height: 300px;
+}
